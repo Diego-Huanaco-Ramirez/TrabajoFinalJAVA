@@ -1,0 +1,3 @@
+18899263-3;Diego Huanaco;2013;masculino
+18899264-5;Juan Perez;2000;masculino
+12324323-5;Maria Ramirez;2015;femenino

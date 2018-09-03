@@ -1,0 +1,7 @@
+18899263-3;Diego Huanaco;2013;masculino
+18899264-5;Juan Perez;2000;masculino
+12324323-5;Maria Ramos;2015;femenino
+18128731-3;Wesley O´Ryan;2013;masculino
+1231231-4;Marta Astorga;2000;femenino
+18899233-6;Matias Bengi;2015;masculino
+12131433-k;Elisabet Tapia;2014;femenino

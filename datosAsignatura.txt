@@ -1,0 +1,16 @@
+Mat-123;Calculo I;2;0;1
+Mat-456;Algebra I;2;0;2
+Prog-101;Programacion;2;2;0
+Quim-165;Quimica;1;2;1
+Mat-246;Calculo II;1;1;2
+Mat-893;Algebra II;0;2;2
+Prog-210;Program. Avanzada;1;2;4
+Fis-627;Fisica;2;0;4
+Mat-896;Ecuaciones Diferenciales;3;0;3
+Mat-694;Matematicas Discretas;3;2;0
+Cir-862;Circuitos Electricos;2;0;2
+Sis-120;Sistemas Operativos;1;0;3
+Fis-752;Electromagnetismo;2;0;3
+Est-323;Estadisticas;1;1;2
+Prog-937;Prog. Orientada a Objetos;2;0;2
+Sis-212;Sistemas Digitales;0;2;3
